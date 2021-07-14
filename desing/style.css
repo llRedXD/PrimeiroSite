@@ -1,0 +1,94 @@
+.header {
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+
+header {
+    background-color: black;
+    padding: 20px;
+}
+
+nav {
+    position: absolute;
+    top: 110px;
+    right: 0;
+}
+
+nav li {
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+nav a:hover {
+    color: red;
+    font-size: 18px;
+    transition: 1s;
+}
+
+* {
+    font-size: 16px;
+    color: aliceblue;
+}
+
+body {
+    background-color: rgb(14, 13, 13);
+}
+
+h1.Titulo {
+    font-style:initial;
+    font-size: 32px;
+    text-align: center;
+    padding: 20px;      
+}
+
+div.blocoV {
+    background-image: url(cda72a0b86286b25b22adb833312b6be.jpeg);
+}
+
+iframe.video {
+    position: relative;
+    margin-left: 200px;
+    border-radius: 15px;
+}
+
+div.conteudo {
+    position: relative;
+    margin: 7px 20px 20px;
+    padding: 25px;
+    background-color: black;
+    border-radius: 10px;
+}
+
+.subtitulo{
+    font-size: 28px;
+}
+
+.texto{
+    padding: 15px;
+    text-align: left;
+    font-size: 18px;
+}
+
+.conteudo img {
+    position:relative;
+    margin-left: 30%;
+}
+
+.conteudo h3 {
+    text-align: center;
+}
+
+.conteudo li {
+    margin: 10px;
+    padding: 5px;
+    font-size: 18px;
+    padding-left: 5%;
+}
+
+.dicafim {
+    margin: 20px;
+    background-color: rgb(44, 8, 8);
+    padding: 10px;
+    border-radius: 20px;
+}
